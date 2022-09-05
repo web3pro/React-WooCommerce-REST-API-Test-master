@@ -38,6 +38,5 @@ Build the product listing page looking like this screenshot. https://prnt.sc/10e
 3. Tooltip / Confirmation functionality on action buttons.
 4. Show the page loading bar when the page is retrieving the data from APIs.
 
-video description: https://www.loom.com/share/86ec489fea304ec084c65241dbdd420c
 
 - Styling: You can use 3rd party libraries like bootstrap
