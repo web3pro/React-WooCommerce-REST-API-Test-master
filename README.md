@@ -25,13 +25,6 @@ The server is running on http://localhost:9080 and there are 3 APIs listening.
 3. Retrieve product information by id.
    `http://localhost:9080/products/:\_id`
 
-## Your Tasks
-
-Build the product listing page looking like this screenshot. https://prnt.sc/10ecaop
-
-- Note: Only build the component parts highlighted in the red rectangle
-
-- Requirements: Pay attention to implementing the following functionalities based upon the product list page created.
 
 1. Pagination
 2. Thumbnail popup animation on mouseover
